@@ -15,7 +15,7 @@ function Footer() {
         <span className="pl-1 font-medium text-slate-200">Usman</span>
       </Link>
       <Link
-        href="https://github.com/Maclinz/code-to-img"
+        href="https://github.com/CodeWithUsman0/code-to-img"
         className="flex items-center text-sm font-medium hover:text-slate-200 ease-in-out transition-all duration-500"
       >
         Source Code Here &nbsp;&#129109;
